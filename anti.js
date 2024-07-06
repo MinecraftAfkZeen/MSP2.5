@@ -4,4 +4,4 @@ function keepAlive() {
     }, 5000); // 5000 milisegundos = 5 segundos
 }
 
-keepAlive();
+kepAlive();
